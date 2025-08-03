@@ -6,4 +6,4 @@ all the components of the project
 5. esc 30A
 6. Motor 1100
 
-base on: job brokking
+based on: job brokking(Arduino)
